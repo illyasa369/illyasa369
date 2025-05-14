@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/f5b81e69-d694-4a64-a68f-7796478aa60c)
+![Banner](https://github.com/user-attachments/assets/f5b81e69-d694-4a64-a68f-7796478aa60c)
 
 # 👋 Welcome
 
@@ -14,4 +14,6 @@
 
 ## 📊My GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=illyasa369&show_icons=true&count_private=true&theme=dark" width="350">
+
+![ProfileCounter](https://komarev.com/ghpvc/?username=illyasa369&color=151515&style=for-the-badge)
 <br><br>
