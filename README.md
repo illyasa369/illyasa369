@@ -1,6 +1,8 @@
-# 👋 Welcome, I'm Illyas Ahmed.
+![Image](https://github.com/user-attachments/assets/f5b81e69-d694-4a64-a68f-7796478aa60c)
 
-## 🙋‍♂️About Me
+# 👋 Welcome
+
+## 👨About Me
 👨‍💻 Studying DevOps at CoderCo<br/>
 🗣️ Learning in public with [LinkedIn](https://www.linkedin.com/in/illyas-ahmed/)<br/>
 📚 Currently exploring GitHub
