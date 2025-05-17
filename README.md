@@ -9,7 +9,8 @@
 <br><br>
 
 ## 💻 My Tech Stack
-<img alt="linux" src="https://img.shields.io/badge/linux-white?style=for-the-badge&logo=linux&logoColor=white&labelColor=black&color=black"> <img alt="github" src="https://img.shields.io/badge/github-navy?style=for-the-badge&logo=github&logoColor=white&labelColor=203d85&color=203d85">
+<img alt="linux" src="https://img.shields.io/badge/linux-white?style=for-the-badge&logo=linux&logoColor=white&labelColor=black&color=black"> <img alt="Static Badge" src="https://img.shields.io/badge/git-git?style=for-the-badge&logo=git&logoColor=white&labelColor=grey&color=grey">
+ <img alt="github" src="https://img.shields.io/badge/github-navy?style=for-the-badge&logo=github&logoColor=white&labelColor=203d85&color=203d85">
 <br><br>
 
 ## 📊My GitHub Stats
