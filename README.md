@@ -5,7 +5,7 @@
 ## 👨About Me
 👨‍💻 Studying DevOps at CoderCo<br/>
 🗣️ Learning in public with [LinkedIn](https://www.linkedin.com/in/illyas-ahmed/)<br/>
-📚 Currently exploring Networking
+📚 Currently exploring Docker
 <br><br>
 
 ## 💻 My Tech Stack
